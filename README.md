@@ -113,7 +113,7 @@ This is a **showcase repository** for architecture demonstration purposes.
 ## 📞 Contact
 
 **Live demo available upon request:**
-- Email: hello.lensabutut@gmail.com
+- Email: mail.revvbs@gmail.com
 - Telegram: @[your_username]
 
 ---
